@@ -11,4 +11,3 @@ Repository contains solutions written in Python, mostly using Jupyter Notebook. 
 * sokoban
 * nonograms
 * space insertion
-* storms
